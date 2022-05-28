@@ -1,7 +1,7 @@
 # COLPOSCOPIE
 <img src='https://user-images.githubusercontent.com/106399990/170824060-ec25d48d-e0fd-46e6-a9c8-f321c3c2083d.png' align="right" height="175" />
 
-Votre médecin vous a proposé de réaliser une colposcopie à Port Royal.  
+Votre médecin vous a proposé de réaliser une colposcopie.  
 Nous vous proposons cette petite fiche informative remise avant consultation, afin de vous réexpliquer l’objectif de cet examen, son déroulement et ses suites.
 
 ## De quoi s’agit-il ?
@@ -42,7 +42,4 @@ Il s’agit d’un examen diagnostic permettant la prise en charge des lésions 
 
  - Est-ce que l’examen est long ?
    - Non, il ne dure qu’une dizaine de minutes.
-
-### Numéro utile
-Si vous souhaitez modifier votre rdv ou poser une question, vous pouvez joindre mon assistance au 01.58.41.36.81 
 
